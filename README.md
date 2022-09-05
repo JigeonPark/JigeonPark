@@ -1,44 +1,45 @@
-<div align = center>
+<div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JiGun&desc=Daegu%20Software%20Meister%20High%20School&fontSize=80&animation=twinkling&descAlignY=30)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JIGUN%20&fontSize=70)
 
-<h3 align="center"><b>Stack</b></h3>
-<br />
-<img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=Html5&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=Css3&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a><br/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/TypeScript-777BB4?style=flat-square&logo=TypeScript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/pyhton-0769AD?style=flat-square&logo=python&logoColor=white"/></a>
-
-<!-- <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></a> -->
-
-<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/></a>
-
-<!-- <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a> -->
+## Stack
 
 <br />
-<br />
-<br />
 
-<div display = flex>
-  
-![bjigeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bjigeon&theme=react&show_icons=true)
+[![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://ko.reactjs.org/)
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjigeon&theme=react&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://ko.redux.js.org/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
-<!--
-**bjigeon/bjigeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
+[![C#](https://img.shields.io/badge/C_SHARP-00599C?style=for-the-badge&logo=c#&logoColor=white)](https://en.cppreference.com/w/)
 
-Here are some ideas to get you started:
+[![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+## Github Stats
+
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=bjigeon&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bjigeon&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>
+
+<!-- [![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjigeon)](https://solved.ac/bjigeon)
+
+[<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bjigeon">](https://www.acmicpc.net/user/bjigeon) -->
