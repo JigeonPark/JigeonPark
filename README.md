@@ -13,16 +13,17 @@
 
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white)](https://ko.redux.js.org/)
+[![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)](https://recoiljs.org/ko/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/)
-[![C#](https://img.shields.io/badge/C_SHARP-00599C?style=for-the-badge&logo=c#&logoColor=white)](https://en.cppreference.com/w/)
-
 [![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
-[![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
+
+<!-- [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/) -->
+<!-- [![C#](https://img.shields.io/badge/C_SHARP-00599C?style=for-the-badge&logo=c#&logoColor=white)](https://en.cppreference.com/w/) -->
+
+<!-- [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
+[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) -->
 
 <br>
 <br>
@@ -44,5 +45,5 @@
     
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjigeon)](https://solved.ac/bjigeon)
-
-<!-- [<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bjigeon">](https://www.acmicpc.net/user/bjigeon) -->
+<!-- 
+[<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bjigeon">](https://www.acmicpc.net/user/bjigeon) -->
