@@ -1,17 +1,16 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=JIGUN%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JiGeonPark%20&fontSize=50)
 
-## Stack
-
-<br />
+<!-- ## Stack -->
+<!-- <br /> -->
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)](https://ko.reactjs.org/)
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]()
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
-[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+[![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)](https://recoiljs.org/ko/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -19,13 +18,13 @@
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/)
 [![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-<!-- [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/) -->
-<!-- [![C#](https://img.shields.io/badge/C_SHARP-00599C?style=for-the-badge&logo=c#&logoColor=white)](https://en.cppreference.com/w/) -->
+<!-- [![CSharp](https://img.shields.io/badge/CSharp-blue.svg?style=for-the-badge&logo=CSharp&logoColor=white)](https://learn.microsoft.com/ko-kr/dotnet/csharp/) -->
 
-<!-- [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/)
-[![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) -->
+<!-- [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/) -->
 
-<br>
+<!-- [![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) -->
+
+<!-- <br>
 <br>
 
 ## Stats
@@ -42,8 +41,8 @@
 
 <br>
 <br>
-    
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bjigeon)](https://solved.ac/bjigeon)
-<!-- 
+
 [<img width=70% src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=bjigeon">](https://www.acmicpc.net/user/bjigeon) -->
