@@ -1,6 +1,6 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JiGeonPark%20&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JIGEONPARK%20&fontSize=50)
 
 <!-- ## Stack -->
 <!-- <br /> -->
@@ -10,7 +10,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3schools.com/html/)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
-[![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/)
+<!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/) -->
 [![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)](https://recoiljs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
