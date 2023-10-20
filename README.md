@@ -1,6 +1,6 @@
 <div align = "center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=JIGEONPARK%20&fontSize=50)
+![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=James(Jigeon)  Park%20 =50>)
 
 <!-- ## Stack -->
 <!-- <br /> -->
@@ -11,20 +11,20 @@
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3schools.com/css/)
 
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/) -->
+
 [![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)](https://recoiljs.org/)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 [![MySQL](https://img.shields.io/badge/mysql-%2307405e.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-
 <br/>
 <br/>
 
-<div>
-  <h3><b>Contact</b></h3>
-  <br />
-  <a href="mailto:bjigeon@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=bjigeon@gmail.com"/></a>
-</div>
+<h3><b>Contact</b></h3>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jamespark05/)
+
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:bjigeon@gmail.com)
 
 <!-- [![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/) -->
 <!-- [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=Java&logoColor=white)](https://www.java.com/) -->
