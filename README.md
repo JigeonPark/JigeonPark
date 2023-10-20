@@ -1,6 +1,6 @@
 <div align = "center">
 
-![header](<https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=James(Jigeon)  Park%20 =50>)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=James(Jigeon)&nbsp;&nbsp;Park%20&fontSize=50)
 
 <!-- ## Stack -->
 <!-- <br /> -->
