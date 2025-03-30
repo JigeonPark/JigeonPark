@@ -15,7 +15,7 @@
 [![react-query](https://img.shields.io/badge/react-query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)]()
 [![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)]()
 
-## 🏃‍➡️ Want to learn
+## 🏃‍➡️ Would like to learn
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
@@ -32,9 +32,9 @@
 
 <!-- [![Webpack](https://img.shields.io/badge/webpack-8DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=white)](https://webpack.js.org/) -->
 
-## 📈 GitHub Stats
+<!-- ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigeonPark&hide_border=true&layout=compact" align="left" style="width: 30%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JigeonPark&hide_border=true&layout=compact" align="left" style="width: 30%" /> -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=JigeonPark&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" /> -->
 
