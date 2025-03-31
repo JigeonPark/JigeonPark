@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Jigeon Park)
 
-## 💼 Technical Skills
+## Technical Skills
 
 [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)]()
 [![Next](https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)]()
@@ -15,17 +15,17 @@
 [![react-query](https://img.shields.io/badge/react-query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)]()
 [![Recoil](https://img.shields.io/badge/Recoil-764ABC?style=for-the-badge&logo=Recoil&logoColor=white)]()
 
-## 🏃‍➡️ Would like to learn
+## Would like to learn
 
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)]()
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)]()
 [![Express](https://img.shields.io/badge/express-000000.svg?style=for-the-badge&logo=express&logoColor=white)]()
 [![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c-sharp&logoColor=white)]()
 
-## 🤝 Connect with Me
+## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jigeonpark/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnpk.zf.work@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jnpk.zf@gmail.com)
 
 <!-- [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.cppreference.com/w/) -->
 <!-- [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/ko/) -->
